@@ -1,0 +1,33 @@
+baseurl = "/blog"
+languageCode = "en-us"
+title = "/home/shaon"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = "sky is the limit"
+    footer = "&copy; [Imran Hossain Shaon](http://shaon.me) 2017 | [Github](https://github.com/shaon) | [Twitter](https://twitter.com/mdshaonimran)"
