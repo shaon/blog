@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-asia on /home/shaon</title>
+    <link>/blog/tags/e-asia/</link>
+    <description>Recent content in E-asia on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Dec 2011 15:39:41 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/e-asia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>eASiA 2011 and Amadeyr Cloud</title>
+      <link>/blog/archive/easia-2011-and-amadeyr-cloud/</link>
+      <pubDate>Sat, 03 Dec 2011 15:39:41 +0000</pubDate>
+      
+      <guid>/blog/archive/easia-2011-and-amadeyr-cloud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

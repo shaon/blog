@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lamp on /home/shaon</title>
+    <link>/blog/tags/lamp/</link>
+    <description>Recent content in Lamp on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jul 2010 15:28:46 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/lamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install phpmyadmin in ubuntu</title>
+      <link>/blog/archive/install-phpmyadmin-in-ubuntu/</link>
+      <pubDate>Fri, 30 Jul 2010 15:28:46 +0000</pubDate>
+      
+      <guid>/blog/archive/install-phpmyadmin-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install LAMP on ubuntu</title>
+      <link>/blog/archive/install-lamp-on-ubuntu/</link>
+      <pubDate>Fri, 30 Jul 2010 14:42:13 +0000</pubDate>
+      
+      <guid>/blog/archive/install-lamp-on-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

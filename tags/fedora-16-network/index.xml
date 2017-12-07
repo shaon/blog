@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fedora 16 network on /home/shaon</title>
+    <link>/blog/tags/fedora-16-network/</link>
+    <description>Recent content in Fedora 16 network on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Feb 2012 11:10:06 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/fedora-16-network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Static IP Address Fedora 16</title>
+      <link>/blog/archive/static-ip-address-fedora-16/</link>
+      <pubDate>Mon, 13 Feb 2012 11:10:06 +0000</pubDate>
+      
+      <guid>/blog/archive/static-ip-address-fedora-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

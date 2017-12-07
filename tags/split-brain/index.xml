@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Split brain on /home/shaon</title>
+    <link>/blog/tags/split-brain/</link>
+    <description>Recent content in Split brain on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jan 2013 13:45:13 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/split-brain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eucalyptus HA and lock files</title>
+      <link>/blog/archive/eucalyptus-ha-and-lock-files/</link>
+      <pubDate>Wed, 30 Jan 2013 13:45:13 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-ha-and-lock-files/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

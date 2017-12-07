@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IaaS on /home/shaon</title>
+    <link>/blog/categories/iaas/</link>
+    <description>Recent content in IaaS on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2016 23:49:59 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/categories/iaas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eucalyptus VPC with MidoNet 5.2</title>
+      <link>/blog/archive/eucalyptus-vpc-with-midonet-5-2/</link>
+      <pubDate>Wed, 02 Nov 2016 23:49:59 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-vpc-with-midonet-5-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configure DNS server for Helion Eucalyptus</title>
+      <link>/blog/archive/configure-dns-server-for-helion-eucalyptus/</link>
+      <pubDate>Thu, 17 Dec 2015 23:18:25 +0000</pubDate>
+      
+      <guid>/blog/archive/configure-dns-server-for-helion-eucalyptus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus FourZero (4.0)</title>
+      <link>/blog/archive/eucalyptus-fourzero-4-0/</link>
+      <pubDate>Wed, 04 Jun 2014 15:59:18 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-fourzero-4-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustered Riak CS with Eucalyptus Object Storage Gateway</title>
+      <link>/blog/archive/clustered-riak-cs-with-eucalyptus-object-storage-gateway/</link>
+      <pubDate>Wed, 05 Mar 2014 17:26:34 +0000</pubDate>
+      
+      <guid>/blog/archive/clustered-riak-cs-with-eucalyptus-object-storage-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus Object Storage Gateway with Riak CS</title>
+      <link>/blog/archive/eucalyptus-object-storage-gateway-with-riak-cs/</link>
+      <pubDate>Wed, 01 Jan 2014 14:03:26 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-object-storage-gateway-with-riak-cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus Faststart 3.4.1 - cloud-in-a-vm on Fedora 19</title>
+      <link>/blog/archive/eucalyptus-faststart-3-4-1-cloud-in-a-vm-on-fedora-19/</link>
+      <pubDate>Thu, 12 Dec 2013 08:32:24 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-faststart-3-4-1-cloud-in-a-vm-on-fedora-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus 3.3.0 in a nutshell</title>
+      <link>/blog/archive/eucalyptus-3-3-0-in-a-nutshell/</link>
+      <pubDate>Mon, 10 Jun 2013 13:07:34 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-3-3-0-in-a-nutshell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run Appscale on Eucalyptus</title>
+      <link>/blog/archive/run-appscale-on-eucalyptus/</link>
+      <pubDate>Fri, 01 Mar 2013 12:00:09 +0000</pubDate>
+      
+      <guid>/blog/archive/run-appscale-on-eucalyptus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

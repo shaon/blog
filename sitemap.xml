@@ -1,0 +1,1578 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/post/2016/11/19/minio-as-eucalyptus-object-storage/</loc>
+    <lastmod>2016-11-19T10:32:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-vpc-with-midonet-5-2/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-selinux-security-as-a-first-class-citizen/</loc>
+    <lastmod>2016-05-11T00:40:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/configure-dns-server-for-helion-eucalyptus/</loc>
+    <lastmod>2015-12-17T23:18:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-block-storage-service-with-ceph-rbd/</loc>
+    <lastmod>2014-09-17T11:38:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/installing-apache-hadoop-on-eucalyptus-using-hortonworks-data-platform-stack-and-apache-ambari/</loc>
+    <lastmod>2014-06-25T14:02:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-fourzero-4-0/</loc>
+    <lastmod>2014-06-04T15:59:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/clustered-riak-cs-with-eucalyptus-object-storage-gateway/</loc>
+    <lastmod>2014-03-05T17:26:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-object-storage-gateway-with-riak-cs/</loc>
+    <lastmod>2014-01-01T14:03:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/pursuit-of-quality-at-eucalyptus/</loc>
+    <lastmod>2013-12-13T14:31:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-faststart-3-4-1-cloud-in-a-vm-on-fedora-19/</loc>
+    <lastmod>2013-12-12T08:32:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-3-3-0-in-a-nutshell/</loc>
+    <lastmod>2013-06-10T13:07:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/run-appscale-on-eucalyptus/</loc>
+    <lastmod>2013-03-01T12:00:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-ha-and-lock-files/</loc>
+    <lastmod>2013-01-30T13:45:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/monitoring-with-nagios/</loc>
+    <lastmod>2012-11-23T19:48:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/contributing-to-eucalyptus-made-easy/</loc>
+    <lastmod>2012-11-22T12:26:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-source-installation/</loc>
+    <lastmod>2012-10-31T14:32:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/amadeyr-cloud-ltd-partners-with-eucalyptus-system-inc/</loc>
+    <lastmod>2012-07-01T13:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/dhcp-common-conflicts-with-file-from-package-dhclient/</loc>
+    <lastmod>2012-06-17T17:57:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/ntp-server-how-to/</loc>
+    <lastmod>2012-04-25T22:28:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/nilgiri-managing-cloud-is-now-easier/</loc>
+    <lastmod>2012-03-28T13:14:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/jquery-ajax-with-django/</loc>
+    <lastmod>2012-03-26T00:45:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/presentation-at-basis-softexpo-2012/</loc>
+    <lastmod>2012-02-26T07:16:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/static-ip-address-fedora-16/</loc>
+    <lastmod>2012-02-13T11:10:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/enable-ssh-on-fedora-16/</loc>
+    <lastmod>2012-02-13T10:35:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/gnu-screen-blessing-for-sys-admins/</loc>
+    <lastmod>2012-02-09T23:27:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/create-bootable-live-usb/</loc>
+    <lastmod>2012-02-09T22:11:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/connect-network-is-unreachable/</loc>
+    <lastmod>2012-02-07T16:13:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-manual-installation/</loc>
+    <lastmod>2012-01-25T17:52:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/setting-up-django-using-virtualenv/</loc>
+    <lastmod>2012-01-13T23:22:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/virtualenv-environmenterror-mysql_config-not-found/</loc>
+    <lastmod>2012-01-13T22:53:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/setting-up-mysql-and-phpmyadmin-on-mac-osx/</loc>
+    <lastmod>2012-01-13T21:35:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/my-first-presentation-at-phpxperts-seminar-2011/</loc>
+    <lastmod>2011-12-19T16:14:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/the-origin-of-cloud-computing/</loc>
+    <lastmod>2011-12-04T07:37:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/easia-2011-and-amadeyr-cloud/</loc>
+    <lastmod>2011-12-03T15:39:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/image-management-in-eucalyptus/</loc>
+    <lastmod>2011-11-27T19:37:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/creating-image-for-eucalyptus/</loc>
+    <lastmod>2011-11-27T19:06:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-installation/</loc>
+    <lastmod>2011-11-27T12:55:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/eucalyptus-and-its-components/</loc>
+    <lastmod>2011-11-25T18:28:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/google-easter-eggs-or-nerd-jokes/</loc>
+    <lastmod>2011-11-11T10:28:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/restore-panel-in-ubuntu/</loc>
+    <lastmod>2011-10-31T08:14:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/internet-sharing-using-a-gateway-computer/</loc>
+    <lastmod>2011-10-19T19:50:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/apache2-apr_sockaddr_info_get-failed/</loc>
+    <lastmod>2011-10-17T06:20:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/quit-your-day-job-if-you-can-afford-it/</loc>
+    <lastmod>2011-10-07T20:30:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/nacked-truth/</loc>
+    <lastmod>2011-08-14T09:05:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/switch-between-eth0-and-eth1-in-debian-based-system/</loc>
+    <lastmod>2011-08-11T19:55:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/totalfinder-the-missing-app-of-mac-os-x/</loc>
+    <lastmod>2011-03-26T10:25:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/install-dropbox-from-source-in-debian-squeeze/</loc>
+    <lastmod>2011-03-06T20:57:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/installing-vim-from-source-in-ubuntu/</loc>
+    <lastmod>2010-12-15T21:43:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/folder-path-in-mac-os-x/</loc>
+    <lastmod>2010-12-14T16:53:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/setting-up-virtual-host/</loc>
+    <lastmod>2010-10-17T22:31:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/twitter-bot-in-php-with-oauth-support/</loc>
+    <lastmod>2010-09-10T14:46:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/facebook-application-setup/</loc>
+    <lastmod>2010-08-06T18:26:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/location-api-on-aloashbei-platform/</loc>
+    <lastmod>2010-08-03T02:49:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/virtualbox-full-screen-problem-for-ubuntu/</loc>
+    <lastmod>2010-08-03T01:58:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/send-sms-with-grameenphone-api-and-php/</loc>
+    <lastmod>2010-08-02T22:36:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/install-phpmyadmin-in-ubuntu/</loc>
+    <lastmod>2010-07-30T15:28:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/install-lamp-on-ubuntu/</loc>
+    <lastmod>2010-07-30T14:42:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/gnome-keyring-password-ubuntu/</loc>
+    <lastmod>2010-07-28T20:39:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/alias-in-unix/</loc>
+    <lastmod>2010-07-23T15:59:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/synaptic-update-manager-update/</loc>
+    <lastmod>2010-07-12T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/chmod-change-filefolder-permission-in-ubuntu/</loc>
+    <lastmod>2010-06-13T17:48:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/installation-on-ubuntu-10-04/</loc>
+    <lastmod>2010-06-11T21:12:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/change-mac-address-on-ubuntu-10-04/</loc>
+    <lastmod>2010-06-11T20:40:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/setting-pppoe-connection-on-ubuntu/</loc>
+    <lastmod>2010-06-11T16:54:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/jdbc-java-database-connectivity/</loc>
+    <lastmod>2010-04-14T21:19:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/download-quicktime-video/</loc>
+    <lastmod>2010-01-02T16:36:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/read-chm-on-mac-os-x-10-5-4/</loc>
+    <lastmod>2009-09-17T19:11:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/cpp-on-mac/</loc>
+    <lastmod>2009-08-20T21:02:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/run-close-application-in-ma/</loc>
+    <lastmod>2009-08-14T17:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/api/</loc>
+    <lastmod>2010-09-10T14:46:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/agile/</loc>
+    <lastmod>2013-12-13T14:31:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/ajax/</loc>
+    <lastmod>2012-03-26T00:45:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/alias/</loc>
+    <lastmod>2010-07-23T15:59:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/aloashbei/</loc>
+    <lastmod>2010-08-02T22:36:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/amadeyr-cloud/</loc>
+    <lastmod>2012-07-01T13:39:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/amazon-ec2/</loc>
+    <lastmod>2012-03-28T13:14:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/apache/</loc>
+    <lastmod>2011-10-17T06:20:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/apache-ambari/</loc>
+    <lastmod>2014-06-25T14:02:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/appscale/</loc>
+    <lastmod>2013-03-01T12:00:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/archive/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/autoscaling/</loc>
+    <lastmod>2013-06-10T13:07:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/aws/</loc>
+    <lastmod>2014-06-04T15:59:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/aws-compatibility/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/big-data/</loc>
+    <lastmod>2014-06-25T14:02:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/bind/</loc>
+    <lastmod>2015-12-17T23:18:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/bootable/</loc>
+    <lastmod>2012-02-09T22:11:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/bot/</loc>
+    <lastmod>2010-09-10T14:46:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/</loc>
+    <lastmod>2013-03-01T12:00:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/centos/</loc>
+    <lastmod>2012-06-17T17:57:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/ceph/</loc>
+    <lastmod>2014-09-17T11:38:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/ceph/</loc>
+    <lastmod>2014-09-17T11:38:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/chagne-mac-address/</loc>
+    <lastmod>2010-06-11T20:40:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/change-permission/</loc>
+    <lastmod>2010-06-13T17:48:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/chmod/</loc>
+    <lastmod>2010-06-13T17:48:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/cloud/</loc>
+    <lastmod>2016-11-19T10:32:40-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/cloud/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/cloud-computing/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/cloud-computing-basic/</loc>
+    <lastmod>2011-12-04T07:37:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/cloud-image/</loc>
+    <lastmod>2011-11-27T19:06:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/cloud-installation/</loc>
+    <lastmod>2011-11-27T12:55:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/cloud-management/</loc>
+    <lastmod>2012-03-28T13:14:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/cloud-in-a-vm/</loc>
+    <lastmod>2013-12-12T08:32:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/cloudwatch/</loc>
+    <lastmod>2013-06-10T13:07:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/comic/</loc>
+    <lastmod>2011-10-07T20:30:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/configure-pppoe/</loc>
+    <lastmod>2010-06-11T16:54:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/custom-image/</loc>
+    <lastmod>2011-11-27T19:06:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/database/</loc>
+    <lastmod>2010-07-30T14:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/debian/</loc>
+    <lastmod>2012-04-25T22:28:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/dhcp/</loc>
+    <lastmod>2012-06-17T17:57:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/dial-up/</loc>
+    <lastmod>2010-06-11T16:54:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/django/</loc>
+    <lastmod>2012-03-26T00:45:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/dns/</loc>
+    <lastmod>2015-12-17T23:18:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/dropbox/</loc>
+    <lastmod>2011-03-06T20:57:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/e-asia/</loc>
+    <lastmod>2011-12-03T15:39:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/easia/</loc>
+    <lastmod>2011-12-03T15:39:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/easia-2011/</loc>
+    <lastmod>2011-12-03T15:39:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/easter-eggs/</loc>
+    <lastmod>2011-11-11T10:28:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/elb/</loc>
+    <lastmod>2013-06-10T13:07:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/emi/</loc>
+    <lastmod>2011-11-27T19:06:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/environmenterror/</loc>
+    <lastmod>2012-01-13T22:53:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/error/</loc>
+    <lastmod>2011-10-17T06:20:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eth1-eth1/</loc>
+    <lastmod>2011-08-11T19:55:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/euca2ools-image/</loc>
+    <lastmod>2011-11-27T19:37:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/eucalyptus/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eucalyptus/</loc>
+    <lastmod>2016-11-19T10:32:40-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eucalyptus-faststart/</loc>
+    <lastmod>2013-12-12T08:32:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eucalyptus-components/</loc>
+    <lastmod>2011-11-25T18:28:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eucalyptus-dns/</loc>
+    <lastmod>2015-12-17T23:18:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eucalyptus-image/</loc>
+    <lastmod>2011-11-27T19:06:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eucalyptus-installation/</loc>
+    <lastmod>2012-10-31T14:32:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eucalyptus-management/</loc>
+    <lastmod>2011-11-27T19:37:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eucalyptus-tutorial/</loc>
+    <lastmod>2011-11-25T18:28:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eutester/</loc>
+    <lastmod>2013-12-13T14:31:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/eutester4j/</loc>
+    <lastmod>2013-12-13T14:31:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/facebook/</loc>
+    <lastmod>2010-08-06T18:26:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/faststart/</loc>
+    <lastmod>2013-12-12T08:32:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/fedora/</loc>
+    <lastmod>2012-04-25T22:28:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/fedora/</loc>
+    <lastmod>2013-12-12T08:32:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/fedora-16/</loc>
+    <lastmod>2012-02-13T10:35:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/fedora-16-network/</loc>
+    <lastmod>2012-02-13T11:10:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/fedora-19/</loc>
+    <lastmod>2013-12-12T08:32:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/fedora-ssh/</loc>
+    <lastmod>2012-02-13T10:35:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/folder-path/</loc>
+    <lastmod>2010-12-14T16:53:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/folder-path-in-mac/</loc>
+    <lastmod>2010-12-14T16:53:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/full-screen/</loc>
+    <lastmod>2010-08-03T01:58:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/gp/</loc>
+    <lastmod>2010-08-03T02:49:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/gateway/</loc>
+    <lastmod>2011-10-19T19:50:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/gnome/</loc>
+    <lastmod>2010-07-28T20:39:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/gnu-screen/</loc>
+    <lastmod>2012-02-09T23:27:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/google-jokes/</loc>
+    <lastmod>2011-11-11T10:28:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/google-tricks/</loc>
+    <lastmod>2011-11-11T10:28:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/grameen/</loc>
+    <lastmod>2010-08-03T02:49:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/grameen-phone/</loc>
+    <lastmod>2010-08-02T22:36:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/grameenphone-apis/</loc>
+    <lastmod>2010-08-03T02:49:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/hdp/</loc>
+    <lastmod>2014-06-25T14:02:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/hadoop/</loc>
+    <lastmod>2014-06-25T14:02:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/helion/</loc>
+    <lastmod>2015-12-17T23:18:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/helion-eucalyptus/</loc>
+    <lastmod>2015-12-17T23:18:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/high-availability/</loc>
+    <lastmod>2013-01-30T13:45:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2016-11-19T10:32:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/ict/</loc>
+    <lastmod>2011-12-03T15:39:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/iaas/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/image-management/</loc>
+    <lastmod>2011-11-27T19:37:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/install/</loc>
+    <lastmod>2010-06-11T21:12:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/install-dropbox/</loc>
+    <lastmod>2011-03-06T20:57:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/internet/</loc>
+    <lastmod>2011-10-19T19:50:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/internet-sharing/</loc>
+    <lastmod>2011-10-19T19:50:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/java-programming/</loc>
+    <lastmod>2010-04-14T21:19:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/java-database/</loc>
+    <lastmod>2010-04-14T21:19:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/java-db/</loc>
+    <lastmod>2010-04-14T21:19:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/jdbc/</loc>
+    <lastmod>2010-04-14T21:19:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/keyring/</loc>
+    <lastmod>2010-07-28T20:39:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/kvm/</loc>
+    <lastmod>2013-12-12T08:32:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/lamp/</loc>
+    <lastmod>2010-07-30T15:28:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/lan-card/</loc>
+    <lastmod>2011-08-11T19:55:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/linux/</loc>
+    <lastmod>2016-05-11T00:40:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/location/</loc>
+    <lastmod>2010-08-03T02:49:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/mac-os-x/</loc>
+    <lastmod>2012-01-13T21:35:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/mac-address/</loc>
+    <lastmod>2010-06-11T20:40:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/mac-os-trick/</loc>
+    <lastmod>2010-12-14T16:53:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/mac-osx/</loc>
+    <lastmod>2010-07-23T15:59:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/management-tool/</loc>
+    <lastmod>2012-03-28T13:14:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/midonet/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/midokura/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/minio/</loc>
+    <lastmod>2016-11-19T10:32:40-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/monitoring/</loc>
+    <lastmod>2012-11-23T19:48:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/monitoring/</loc>
+    <lastmod>2012-11-23T19:48:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/mysql/</loc>
+    <lastmod>2012-01-13T22:53:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/mysql/</loc>
+    <lastmod>2012-01-13T21:35:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/mysql-python/</loc>
+    <lastmod>2012-01-13T22:53:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/mysql_config/</loc>
+    <lastmod>2012-01-13T22:53:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/nagios/</loc>
+    <lastmod>2012-11-23T19:48:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/nested-kvm/</loc>
+    <lastmod>2013-12-12T08:32:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/network/</loc>
+    <lastmod>2012-02-07T16:13:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/network-card/</loc>
+    <lastmod>2011-08-11T19:55:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/network-time/</loc>
+    <lastmod>2012-04-25T22:28:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/nginx/</loc>
+    <lastmod>2014-03-05T17:26:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/nic/</loc>
+    <lastmod>2011-08-11T19:55:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/nilgiri/</loc>
+    <lastmod>2012-03-28T13:14:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/ntp/</loc>
+    <lastmod>2012-04-25T22:28:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/ntp-basic/</loc>
+    <lastmod>2012-04-25T22:28:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/oauth/</loc>
+    <lastmod>2010-09-10T14:46:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/object-storage/</loc>
+    <lastmod>2014-01-01T14:03:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/open-source/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/origin-of-cloud-computing/</loc>
+    <lastmod>2011-12-04T07:37:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/php/</loc>
+    <lastmod>2012-01-13T21:35:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/paas/</loc>
+    <lastmod>2013-03-01T12:00:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/panel-ubuntu/</loc>
+    <lastmod>2011-10-31T08:14:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/password/</loc>
+    <lastmod>2010-07-28T20:39:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/patch/</loc>
+    <lastmod>2012-11-22T12:26:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/phpmyadmin/</loc>
+    <lastmod>2012-01-13T21:35:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/phpxperts-2011/</loc>
+    <lastmod>2011-12-19T16:14:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/post/</loc>
+    <lastmod>2012-03-26T00:45:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/post/</loc>
+    <lastmod>2016-11-19T10:32:40-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/pppoe/</loc>
+    <lastmod>2010-06-11T16:54:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/pppoe-in-ubuntu/</loc>
+    <lastmod>2010-06-11T16:54:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/premission/</loc>
+    <lastmod>2010-06-13T17:48:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/private-cloud/</loc>
+    <lastmod>2014-06-04T15:59:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/python/</loc>
+    <lastmod>2013-12-13T14:31:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/python-environment/</loc>
+    <lastmod>2012-01-13T23:22:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/quality/</loc>
+    <lastmod>2013-12-13T14:31:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/riak/</loc>
+    <lastmod>2014-03-05T17:26:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/riak-cs/</loc>
+    <lastmod>2014-03-05T17:26:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/riak-control/</loc>
+    <lastmod>2014-03-05T17:26:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/s3/</loc>
+    <lastmod>2014-01-01T14:03:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/sdn/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/screen/</loc>
+    <lastmod>2012-02-09T23:27:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/security/</loc>
+    <lastmod>2016-05-11T00:40:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/selinux/</loc>
+    <lastmod>2016-05-11T00:40:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/seminar/</loc>
+    <lastmod>2012-02-26T07:16:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/seminars/</loc>
+    <lastmod>2012-02-26T07:16:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/setting-up-vhost/</loc>
+    <lastmod>2010-10-17T22:31:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/sms/</loc>
+    <lastmod>2010-08-02T22:36:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/softexpo/</loc>
+    <lastmod>2012-02-26T07:16:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/software-quality/</loc>
+    <lastmod>2013-12-13T14:31:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/split-brain/</loc>
+    <lastmod>2013-01-30T13:45:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/ssh/</loc>
+    <lastmod>2012-02-13T10:35:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/static-ip-fedora/</loc>
+    <lastmod>2012-02-13T11:10:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/storage/</loc>
+    <lastmod>2014-09-17T11:38:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/synaptic/</loc>
+    <lastmod>2010-07-12T14:08:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/</loc>
+    <lastmod>2010-09-10T14:46:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/talk/</loc>
+    <lastmod>2011-12-19T16:14:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/technical-session/</loc>
+    <lastmod>2012-02-26T07:16:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/time-protocol/</loc>
+    <lastmod>2012-04-25T22:28:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/tips/</loc>
+    <lastmod>2010-07-28T20:39:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/tips-amp-tricks/</loc>
+    <lastmod>2012-06-17T17:57:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/tips-and-tricks/</loc>
+    <lastmod>2010-12-15T21:43:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/top-panel/</loc>
+    <lastmod>2011-10-31T08:14:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/tricks/</loc>
+    <lastmod>2010-07-28T20:39:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/twitter/</loc>
+    <lastmod>2010-09-10T14:46:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/twitter-bot/</loc>
+    <lastmod>2010-09-10T14:46:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/ubuntu/</loc>
+    <lastmod>2012-04-25T22:28:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/ubuntu-mac-address/</loc>
+    <lastmod>2010-06-11T20:40:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/ubuntu-panel/</loc>
+    <lastmod>2011-10-31T08:14:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/uncategorized/</loc>
+    <lastmod>2011-03-26T10:25:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/unix/</loc>
+    <lastmod>2010-07-23T15:59:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/update/</loc>
+    <lastmod>2010-07-12T14:08:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/usb/</loc>
+    <lastmod>2012-02-09T22:11:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/vpc/</loc>
+    <lastmod>2016-11-02T23:49:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/vhost/</loc>
+    <lastmod>2010-10-17T22:31:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/vhost-in-apache/</loc>
+    <lastmod>2010-10-17T22:31:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/vhost-in-mac/</loc>
+    <lastmod>2010-10-17T22:31:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/vhost-in-ubuntu/</loc>
+    <lastmod>2010-10-17T22:31:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/vim/</loc>
+    <lastmod>2010-12-15T21:43:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/vim-in-ubuntu/</loc>
+    <lastmod>2010-12-15T21:43:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/virtual-host/</loc>
+    <lastmod>2010-10-17T22:31:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/virtualbox/</loc>
+    <lastmod>2010-08-03T01:58:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/virtualenv/</loc>
+    <lastmod>2012-01-13T23:22:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/virtualevn-error/</loc>
+    <lastmod>2012-01-13T22:53:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/web/</loc>
+    <lastmod>2010-09-10T14:46:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/web-development-tool/</loc>
+    <lastmod>2010-07-30T14:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/webconsole/</loc>
+    <lastmod>2012-03-28T13:14:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/categories/%E0%A6%95%E0%A6%A5%E0%A7%8B%E0%A6%AA%E0%A6%95%E0%A6%A5%E0%A6%A8/</loc>
+    <lastmod>2011-12-03T15:39:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhcp on /home/shaon</title>
+    <link>/blog/tags/dhcp/</link>
+    <description>Recent content in Dhcp on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jun 2012 17:57:47 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/dhcp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dhcp-common conflicts with file from package dhclient</title>
+      <link>/blog/archive/dhcp-common-conflicts-with-file-from-package-dhclient/</link>
+      <pubDate>Sun, 17 Jun 2012 17:57:47 +0000</pubDate>
+      
+      <guid>/blog/archive/dhcp-common-conflicts-with-file-from-package-dhclient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

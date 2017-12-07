@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setting up vhost on /home/shaon</title>
+    <link>/blog/tags/setting-up-vhost/</link>
+    <description>Recent content in Setting up vhost on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Oct 2010 22:31:32 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/setting-up-vhost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up Virtual Host</title>
+      <link>/blog/archive/setting-up-virtual-host/</link>
+      <pubDate>Sun, 17 Oct 2010 22:31:32 +0000</pubDate>
+      
+      <guid>/blog/archive/setting-up-virtual-host/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

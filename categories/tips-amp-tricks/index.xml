@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips &amp;amp; Tricks on /home/shaon</title>
+    <link>/blog/categories/tips-amp-tricks/</link>
+    <description>Recent content in Tips &amp;amp; Tricks on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jun 2012 17:57:47 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/categories/tips-amp-tricks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dhcp-common conflicts with file from package dhclient</title>
+      <link>/blog/archive/dhcp-common-conflicts-with-file-from-package-dhclient/</link>
+      <pubDate>Sun, 17 Jun 2012 17:57:47 +0000</pubDate>
+      
+      <guid>/blog/archive/dhcp-common-conflicts-with-file-from-package-dhclient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enable SSH on Fedora 16</title>
+      <link>/blog/archive/enable-ssh-on-fedora-16/</link>
+      <pubDate>Mon, 13 Feb 2012 10:35:18 +0000</pubDate>
+      
+      <guid>/blog/archive/enable-ssh-on-fedora-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNU screen - blessing for sys.admins</title>
+      <link>/blog/archive/gnu-screen-blessing-for-sys-admins/</link>
+      <pubDate>Thu, 09 Feb 2012 23:27:36 +0000</pubDate>
+      
+      <guid>/blog/archive/gnu-screen-blessing-for-sys-admins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create bootable LIVE USB</title>
+      <link>/blog/archive/create-bootable-live-usb/</link>
+      <pubDate>Thu, 09 Feb 2012 22:11:18 +0000</pubDate>
+      
+      <guid>/blog/archive/create-bootable-live-usb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Easter Eggs or Nerd Jokes</title>
+      <link>/blog/archive/google-easter-eggs-or-nerd-jokes/</link>
+      <pubDate>Fri, 11 Nov 2011 10:28:49 +0000</pubDate>
+      
+      <guid>/blog/archive/google-easter-eggs-or-nerd-jokes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restore panel in ubuntu</title>
+      <link>/blog/archive/restore-panel-in-ubuntu/</link>
+      <pubDate>Mon, 31 Oct 2011 08:14:39 +0000</pubDate>
+      
+      <guid>/blog/archive/restore-panel-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet sharing using a gateway computer</title>
+      <link>/blog/archive/internet-sharing-using-a-gateway-computer/</link>
+      <pubDate>Wed, 19 Oct 2011 19:50:04 +0000</pubDate>
+      
+      <guid>/blog/archive/internet-sharing-using-a-gateway-computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switch between eth0 and eth1 in debian based system</title>
+      <link>/blog/archive/switch-between-eth0-and-eth1-in-debian-based-system/</link>
+      <pubDate>Thu, 11 Aug 2011 19:55:40 +0000</pubDate>
+      
+      <guid>/blog/archive/switch-between-eth0-and-eth1-in-debian-based-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folder path in Mac OS X</title>
+      <link>/blog/archive/folder-path-in-mac-os-x/</link>
+      <pubDate>Tue, 14 Dec 2010 16:53:32 +0000</pubDate>
+      
+      <guid>/blog/archive/folder-path-in-mac-os-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting up Virtual Host</title>
+      <link>/blog/archive/setting-up-virtual-host/</link>
+      <pubDate>Sun, 17 Oct 2010 22:31:32 +0000</pubDate>
+      
+      <guid>/blog/archive/setting-up-virtual-host/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VirtualBox full screen problem for ubuntu</title>
+      <link>/blog/archive/virtualbox-full-screen-problem-for-ubuntu/</link>
+      <pubDate>Tue, 03 Aug 2010 01:58:44 +0000</pubDate>
+      
+      <guid>/blog/archive/virtualbox-full-screen-problem-for-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gnome-keyring password ubuntu</title>
+      <link>/blog/archive/gnome-keyring-password-ubuntu/</link>
+      <pubDate>Wed, 28 Jul 2010 20:39:37 +0000</pubDate>
+      
+      <guid>/blog/archive/gnome-keyring-password-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alias in unix</title>
+      <link>/blog/archive/alias-in-unix/</link>
+      <pubDate>Fri, 23 Jul 2010 15:59:24 +0000</pubDate>
+      
+      <guid>/blog/archive/alias-in-unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synaptic/update manager update in ubuntu 10.04</title>
+      <link>/blog/archive/synaptic-update-manager-update/</link>
+      <pubDate>Mon, 12 Jul 2010 14:08:48 +0000</pubDate>
+      
+      <guid>/blog/archive/synaptic-update-manager-update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>change mac address on ubuntu 10.04</title>
+      <link>/blog/archive/change-mac-address-on-ubuntu-10-04/</link>
+      <pubDate>Fri, 11 Jun 2010 20:40:04 +0000</pubDate>
+      
+      <guid>/blog/archive/change-mac-address-on-ubuntu-10-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Download Quick Time video without Quick Time Pro</title>
+      <link>/blog/archive/download-quicktime-video/</link>
+      <pubDate>Sat, 02 Jan 2010 16:36:14 +0000</pubDate>
+      
+      <guid>/blog/archive/download-quicktime-video/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

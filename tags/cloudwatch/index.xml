@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudwatch on /home/shaon</title>
+    <link>/blog/tags/cloudwatch/</link>
+    <description>Recent content in Cloudwatch on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2013 13:07:34 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/cloudwatch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eucalyptus 3.3.0 in a nutshell</title>
+      <link>/blog/archive/eucalyptus-3-3-0-in-a-nutshell/</link>
+      <pubDate>Mon, 10 Jun 2013 13:07:34 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-3-3-0-in-a-nutshell/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

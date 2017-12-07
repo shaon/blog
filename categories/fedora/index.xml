@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fedora on /home/shaon</title>
+    <link>/blog/categories/fedora/</link>
+    <description>Recent content in Fedora on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Apr 2012 22:28:38 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/categories/fedora/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NTP server how to</title>
+      <link>/blog/archive/ntp-server-how-to/</link>
+      <pubDate>Wed, 25 Apr 2012 22:28:38 +0000</pubDate>
+      
+      <guid>/blog/archive/ntp-server-how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static IP Address Fedora 16</title>
+      <link>/blog/archive/static-ip-address-fedora-16/</link>
+      <pubDate>Mon, 13 Feb 2012 11:10:06 +0000</pubDate>
+      
+      <guid>/blog/archive/static-ip-address-fedora-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enable SSH on Fedora 16</title>
+      <link>/blog/archive/enable-ssh-on-fedora-16/</link>
+      <pubDate>Mon, 13 Feb 2012 10:35:18 +0000</pubDate>
+      
+      <guid>/blog/archive/enable-ssh-on-fedora-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

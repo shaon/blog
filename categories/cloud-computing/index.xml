@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Computing on /home/shaon</title>
+    <link>/blog/categories/cloud-computing/</link>
+    <description>Recent content in Cloud Computing on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2016 23:49:59 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/categories/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eucalyptus VPC with MidoNet 5.2</title>
+      <link>/blog/archive/eucalyptus-vpc-with-midonet-5-2/</link>
+      <pubDate>Wed, 02 Nov 2016 23:49:59 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-vpc-with-midonet-5-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eucalyptus-selinux: security as a first-class citizen!</title>
+      <link>/blog/archive/eucalyptus-selinux-security-as-a-first-class-citizen/</link>
+      <pubDate>Wed, 11 May 2016 00:40:49 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-selinux-security-as-a-first-class-citizen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configure DNS server for Helion Eucalyptus</title>
+      <link>/blog/archive/configure-dns-server-for-helion-eucalyptus/</link>
+      <pubDate>Thu, 17 Dec 2015 23:18:25 +0000</pubDate>
+      
+      <guid>/blog/archive/configure-dns-server-for-helion-eucalyptus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus Block Storage Service with Ceph RBD</title>
+      <link>/blog/archive/eucalyptus-block-storage-service-with-ceph-rbd/</link>
+      <pubDate>Wed, 17 Sep 2014 11:38:03 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-block-storage-service-with-ceph-rbd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installing Apache Hadoop on Eucalyptus using Hortonworks Data Platform stack and Apache Ambari</title>
+      <link>/blog/archive/installing-apache-hadoop-on-eucalyptus-using-hortonworks-data-platform-stack-and-apache-ambari/</link>
+      <pubDate>Wed, 25 Jun 2014 14:02:59 +0000</pubDate>
+      
+      <guid>/blog/archive/installing-apache-hadoop-on-eucalyptus-using-hortonworks-data-platform-stack-and-apache-ambari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus FourZero (4.0)</title>
+      <link>/blog/archive/eucalyptus-fourzero-4-0/</link>
+      <pubDate>Wed, 04 Jun 2014 15:59:18 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-fourzero-4-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustered Riak CS with Eucalyptus Object Storage Gateway</title>
+      <link>/blog/archive/clustered-riak-cs-with-eucalyptus-object-storage-gateway/</link>
+      <pubDate>Wed, 05 Mar 2014 17:26:34 +0000</pubDate>
+      
+      <guid>/blog/archive/clustered-riak-cs-with-eucalyptus-object-storage-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus Object Storage Gateway with Riak CS</title>
+      <link>/blog/archive/eucalyptus-object-storage-gateway-with-riak-cs/</link>
+      <pubDate>Wed, 01 Jan 2014 14:03:26 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-object-storage-gateway-with-riak-cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pursuit of Quality at Eucalyptus</title>
+      <link>/blog/archive/pursuit-of-quality-at-eucalyptus/</link>
+      <pubDate>Fri, 13 Dec 2013 14:31:50 +0000</pubDate>
+      
+      <guid>/blog/archive/pursuit-of-quality-at-eucalyptus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus Faststart 3.4.1 - cloud-in-a-vm on Fedora 19</title>
+      <link>/blog/archive/eucalyptus-faststart-3-4-1-cloud-in-a-vm-on-fedora-19/</link>
+      <pubDate>Thu, 12 Dec 2013 08:32:24 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-faststart-3-4-1-cloud-in-a-vm-on-fedora-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus 3.3.0 in a nutshell</title>
+      <link>/blog/archive/eucalyptus-3-3-0-in-a-nutshell/</link>
+      <pubDate>Mon, 10 Jun 2013 13:07:34 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-3-3-0-in-a-nutshell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run Appscale on Eucalyptus</title>
+      <link>/blog/archive/run-appscale-on-eucalyptus/</link>
+      <pubDate>Fri, 01 Mar 2013 12:00:09 +0000</pubDate>
+      
+      <guid>/blog/archive/run-appscale-on-eucalyptus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus HA and lock files</title>
+      <link>/blog/archive/eucalyptus-ha-and-lock-files/</link>
+      <pubDate>Wed, 30 Jan 2013 13:45:13 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-ha-and-lock-files/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributing to Eucalyptus made easy</title>
+      <link>/blog/archive/contributing-to-eucalyptus-made-easy/</link>
+      <pubDate>Thu, 22 Nov 2012 12:26:57 +0000</pubDate>
+      
+      <guid>/blog/archive/contributing-to-eucalyptus-made-easy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus Source Installation</title>
+      <link>/blog/archive/eucalyptus-source-installation/</link>
+      <pubDate>Wed, 31 Oct 2012 14:32:53 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-source-installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amadeyr Cloud Ltd. partners with Eucalyptus System Inc.</title>
+      <link>/blog/archive/amadeyr-cloud-ltd-partners-with-eucalyptus-system-inc/</link>
+      <pubDate>Sun, 01 Jul 2012 13:39:00 +0000</pubDate>
+      
+      <guid>/blog/archive/amadeyr-cloud-ltd-partners-with-eucalyptus-system-inc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NTP server how to</title>
+      <link>/blog/archive/ntp-server-how-to/</link>
+      <pubDate>Wed, 25 Apr 2012 22:28:38 +0000</pubDate>
+      
+      <guid>/blog/archive/ntp-server-how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nilgiri: managing cloud is now easier</title>
+      <link>/blog/archive/nilgiri-managing-cloud-is-now-easier/</link>
+      <pubDate>Wed, 28 Mar 2012 13:14:17 +0000</pubDate>
+      
+      <guid>/blog/archive/nilgiri-managing-cloud-is-now-easier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus manual installation</title>
+      <link>/blog/archive/eucalyptus-manual-installation/</link>
+      <pubDate>Wed, 25 Jan 2012 17:52:13 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-manual-installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My first presentation at phpXperts seminar 2011</title>
+      <link>/blog/archive/my-first-presentation-at-phpxperts-seminar-2011/</link>
+      <pubDate>Mon, 19 Dec 2011 16:14:16 +0000</pubDate>
+      
+      <guid>/blog/archive/my-first-presentation-at-phpxperts-seminar-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The origin of Cloud Computing</title>
+      <link>/blog/archive/the-origin-of-cloud-computing/</link>
+      <pubDate>Sun, 04 Dec 2011 07:37:05 +0000</pubDate>
+      
+      <guid>/blog/archive/the-origin-of-cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image management in Eucalyptus</title>
+      <link>/blog/archive/image-management-in-eucalyptus/</link>
+      <pubDate>Sun, 27 Nov 2011 19:37:33 +0000</pubDate>
+      
+      <guid>/blog/archive/image-management-in-eucalyptus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating image for Eucalyptus</title>
+      <link>/blog/archive/creating-image-for-eucalyptus/</link>
+      <pubDate>Sun, 27 Nov 2011 19:06:08 +0000</pubDate>
+      
+      <guid>/blog/archive/creating-image-for-eucalyptus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus installation</title>
+      <link>/blog/archive/eucalyptus-installation/</link>
+      <pubDate>Sun, 27 Nov 2011 12:55:52 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus and it&#39;s components</title>
+      <link>/blog/archive/eucalyptus-and-its-components/</link>
+      <pubDate>Fri, 25 Nov 2011 18:28:08 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-and-its-components/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

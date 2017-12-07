@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unix on /home/shaon</title>
+    <link>/blog/tags/unix/</link>
+    <description>Recent content in Unix on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jul 2010 15:59:24 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>alias in unix</title>
+      <link>/blog/archive/alias-in-unix/</link>
+      <pubDate>Fri, 23 Jul 2010 15:59:24 +0000</pubDate>
+      
+      <guid>/blog/archive/alias-in-unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chmod – change file/folder permission in ubuntu</title>
+      <link>/blog/archive/chmod-change-filefolder-permission-in-ubuntu/</link>
+      <pubDate>Sun, 13 Jun 2010 17:48:23 +0000</pubDate>
+      
+      <guid>/blog/archive/chmod-change-filefolder-permission-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

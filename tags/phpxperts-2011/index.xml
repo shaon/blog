@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phpxperts 2011 on /home/shaon</title>
+    <link>/blog/tags/phpxperts-2011/</link>
+    <description>Recent content in Phpxperts 2011 on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Dec 2011 16:14:16 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/phpxperts-2011/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first presentation at phpXperts seminar 2011</title>
+      <link>/blog/archive/my-first-presentation-at-phpxperts-seminar-2011/</link>
+      <pubDate>Mon, 19 Dec 2011 16:14:16 +0000</pubDate>
+      
+      <guid>/blog/archive/my-first-presentation-at-phpxperts-seminar-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on /home/shaon</title>
+    <link>/blog/categories/ubuntu/</link>
+    <description>Recent content in Ubuntu on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Apr 2012 22:28:38 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/categories/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NTP server how to</title>
+      <link>/blog/archive/ntp-server-how-to/</link>
+      <pubDate>Wed, 25 Apr 2012 22:28:38 +0000</pubDate>
+      
+      <guid>/blog/archive/ntp-server-how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>connect: Network is unreachable</title>
+      <link>/blog/archive/connect-network-is-unreachable/</link>
+      <pubDate>Tue, 07 Feb 2012 16:13:51 +0000</pubDate>
+      
+      <guid>/blog/archive/connect-network-is-unreachable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restore panel in ubuntu</title>
+      <link>/blog/archive/restore-panel-in-ubuntu/</link>
+      <pubDate>Mon, 31 Oct 2011 08:14:39 +0000</pubDate>
+      
+      <guid>/blog/archive/restore-panel-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet sharing using a gateway computer</title>
+      <link>/blog/archive/internet-sharing-using-a-gateway-computer/</link>
+      <pubDate>Wed, 19 Oct 2011 19:50:04 +0000</pubDate>
+      
+      <guid>/blog/archive/internet-sharing-using-a-gateway-computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache2: apr_sockaddr_info_get() failed</title>
+      <link>/blog/archive/apache2-apr_sockaddr_info_get-failed/</link>
+      <pubDate>Mon, 17 Oct 2011 06:20:35 +0000</pubDate>
+      
+      <guid>/blog/archive/apache2-apr_sockaddr_info_get-failed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switch between eth0 and eth1 in debian based system</title>
+      <link>/blog/archive/switch-between-eth0-and-eth1-in-debian-based-system/</link>
+      <pubDate>Thu, 11 Aug 2011 19:55:40 +0000</pubDate>
+      
+      <guid>/blog/archive/switch-between-eth0-and-eth1-in-debian-based-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installing Vim from source in Ubuntu</title>
+      <link>/blog/archive/installing-vim-from-source-in-ubuntu/</link>
+      <pubDate>Wed, 15 Dec 2010 21:43:11 +0000</pubDate>
+      
+      <guid>/blog/archive/installing-vim-from-source-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting up Virtual Host</title>
+      <link>/blog/archive/setting-up-virtual-host/</link>
+      <pubDate>Sun, 17 Oct 2010 22:31:32 +0000</pubDate>
+      
+      <guid>/blog/archive/setting-up-virtual-host/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VirtualBox full screen problem for ubuntu</title>
+      <link>/blog/archive/virtualbox-full-screen-problem-for-ubuntu/</link>
+      <pubDate>Tue, 03 Aug 2010 01:58:44 +0000</pubDate>
+      
+      <guid>/blog/archive/virtualbox-full-screen-problem-for-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install phpmyadmin in ubuntu</title>
+      <link>/blog/archive/install-phpmyadmin-in-ubuntu/</link>
+      <pubDate>Fri, 30 Jul 2010 15:28:46 +0000</pubDate>
+      
+      <guid>/blog/archive/install-phpmyadmin-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install LAMP on ubuntu</title>
+      <link>/blog/archive/install-lamp-on-ubuntu/</link>
+      <pubDate>Fri, 30 Jul 2010 14:42:13 +0000</pubDate>
+      
+      <guid>/blog/archive/install-lamp-on-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gnome-keyring password ubuntu</title>
+      <link>/blog/archive/gnome-keyring-password-ubuntu/</link>
+      <pubDate>Wed, 28 Jul 2010 20:39:37 +0000</pubDate>
+      
+      <guid>/blog/archive/gnome-keyring-password-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alias in unix</title>
+      <link>/blog/archive/alias-in-unix/</link>
+      <pubDate>Fri, 23 Jul 2010 15:59:24 +0000</pubDate>
+      
+      <guid>/blog/archive/alias-in-unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synaptic/update manager update in ubuntu 10.04</title>
+      <link>/blog/archive/synaptic-update-manager-update/</link>
+      <pubDate>Mon, 12 Jul 2010 14:08:48 +0000</pubDate>
+      
+      <guid>/blog/archive/synaptic-update-manager-update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chmod – change file/folder permission in ubuntu</title>
+      <link>/blog/archive/chmod-change-filefolder-permission-in-ubuntu/</link>
+      <pubDate>Sun, 13 Jun 2010 17:48:23 +0000</pubDate>
+      
+      <guid>/blog/archive/chmod-change-filefolder-permission-in-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installation on ubuntu 10.04</title>
+      <link>/blog/archive/installation-on-ubuntu-10-04/</link>
+      <pubDate>Fri, 11 Jun 2010 21:12:32 +0000</pubDate>
+      
+      <guid>/blog/archive/installation-on-ubuntu-10-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>change mac address on ubuntu 10.04</title>
+      <link>/blog/archive/change-mac-address-on-ubuntu-10-04/</link>
+      <pubDate>Fri, 11 Jun 2010 20:40:04 +0000</pubDate>
+      
+      <guid>/blog/archive/change-mac-address-on-ubuntu-10-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>setting PPPoE connection on ubuntu</title>
+      <link>/blog/archive/setting-pppoe-connection-on-ubuntu/</link>
+      <pubDate>Fri, 11 Jun 2010 16:54:01 +0000</pubDate>
+      
+      <guid>/blog/archive/setting-pppoe-connection-on-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

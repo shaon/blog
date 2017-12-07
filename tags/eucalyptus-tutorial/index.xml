@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eucalyptus tutorial on /home/shaon</title>
+    <link>/blog/tags/eucalyptus-tutorial/</link>
+    <description>Recent content in Eucalyptus tutorial on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Nov 2011 18:28:08 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/eucalyptus-tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eucalyptus and it&#39;s components</title>
+      <link>/blog/archive/eucalyptus-and-its-components/</link>
+      <pubDate>Fri, 25 Nov 2011 18:28:08 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-and-its-components/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

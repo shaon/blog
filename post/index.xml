@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on /home/shaon</title>
+    <link>/blog/post/</link>
+    <description>Recent content in Posts on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Nov 2016 10:32:40 -0700</lastBuildDate>
+    
+	<atom:link href="/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minio as Eucalyptus Object Storage</title>
+      <link>/blog/post/2016/11/19/minio-as-eucalyptus-object-storage/</link>
+      <pubDate>Sat, 19 Nov 2016 10:32:40 -0700</pubDate>
+      
+      <guid>/blog/post/2016/11/19/minio-as-eucalyptus-object-storage/</guid>
+      <description>Minio, the new cloud storage written in Go that let&amp;rsquo;s you store any data as objects also has another great feature, it&amp;rsquo;s AWS S3 compatible and that makes Minio really useful with Eucalyptus.
+Eucalyptus supports multiple ObjectStorage backends, Riak CS (Cloud Storage), Ceph RGW and Eucalyptus already comes with S3 compatible Walrus. Eucalyptus ObjectStorage service acts as a gateway for the backends. Eucalyptus still handles all the AWS compatible Identity and Access Management stuffs.</description>
+    </item>
+    
+  </channel>
+</rss>

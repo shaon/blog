@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GP on /home/shaon</title>
+    <link>/blog/tags/gp/</link>
+    <description>Recent content in GP on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Aug 2010 02:49:34 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/gp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Location API on Aloashbei Platform</title>
+      <link>/blog/archive/location-api-on-aloashbei-platform/</link>
+      <pubDate>Tue, 03 Aug 2010 02:49:34 +0000</pubDate>
+      
+      <guid>/blog/archive/location-api-on-aloashbei-platform/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

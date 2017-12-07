@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Private cloud on /home/shaon</title>
+    <link>/blog/tags/private-cloud/</link>
+    <description>Recent content in Private cloud on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jun 2014 15:59:18 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/private-cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eucalyptus FourZero (4.0)</title>
+      <link>/blog/archive/eucalyptus-fourzero-4-0/</link>
+      <pubDate>Wed, 04 Jun 2014 15:59:18 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-fourzero-4-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus 3.3.0 in a nutshell</title>
+      <link>/blog/archive/eucalyptus-3-3-0-in-a-nutshell/</link>
+      <pubDate>Mon, 10 Jun 2013 13:07:34 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-3-3-0-in-a-nutshell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus manual installation</title>
+      <link>/blog/archive/eucalyptus-manual-installation/</link>
+      <pubDate>Wed, 25 Jan 2012 17:52:13 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-manual-installation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

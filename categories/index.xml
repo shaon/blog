@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on /home/shaon</title>
+    <link>/blog/categories/</link>
+    <description>Recent content in Categories on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2013 12:00:09 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appscale</title>
+      <link>/blog/categories/appscale/</link>
+      <pubDate>Fri, 01 Mar 2013 12:00:09 +0000</pubDate>
+      
+      <guid>/blog/categories/appscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>/blog/categories/big-data/</link>
+      <pubDate>Wed, 25 Jun 2014 14:02:59 +0000</pubDate>
+      
+      <guid>/blog/categories/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ceph</title>
+      <link>/blog/categories/ceph/</link>
+      <pubDate>Wed, 17 Sep 2014 11:38:03 +0000</pubDate>
+      
+      <guid>/blog/categories/ceph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>/blog/categories/cloud/</link>
+      <pubDate>Sat, 19 Nov 2016 10:32:40 -0700</pubDate>
+      
+      <guid>/blog/categories/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>/blog/categories/cloud-computing/</link>
+      <pubDate>Wed, 02 Nov 2016 23:49:59 +0000</pubDate>
+      
+      <guid>/blog/categories/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comic</title>
+      <link>/blog/categories/comic/</link>
+      <pubDate>Fri, 07 Oct 2011 20:30:19 +0000</pubDate>
+      
+      <guid>/blog/categories/comic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>/blog/categories/database/</link>
+      <pubDate>Fri, 30 Jul 2010 14:42:13 +0000</pubDate>
+      
+      <guid>/blog/categories/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debian</title>
+      <link>/blog/categories/debian/</link>
+      <pubDate>Wed, 25 Apr 2012 22:28:38 +0000</pubDate>
+      
+      <guid>/blog/categories/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>/blog/categories/django/</link>
+      <pubDate>Mon, 26 Mar 2012 00:45:19 +0000</pubDate>
+      
+      <guid>/blog/categories/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EASiA</title>
+      <link>/blog/categories/easia/</link>
+      <pubDate>Sat, 03 Dec 2011 15:39:41 +0000</pubDate>
+      
+      <guid>/blog/categories/easia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus</title>
+      <link>/blog/categories/eucalyptus/</link>
+      <pubDate>Wed, 02 Nov 2016 23:49:59 +0000</pubDate>
+      
+      <guid>/blog/categories/eucalyptus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook</title>
+      <link>/blog/categories/facebook/</link>
+      <pubDate>Fri, 06 Aug 2010 18:26:43 +0000</pubDate>
+      
+      <guid>/blog/categories/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fedora</title>
+      <link>/blog/categories/fedora/</link>
+      <pubDate>Wed, 25 Apr 2012 22:28:38 +0000</pubDate>
+      
+      <guid>/blog/categories/fedora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grameenphone APIs</title>
+      <link>/blog/categories/grameenphone-apis/</link>
+      <pubDate>Tue, 03 Aug 2010 02:49:34 +0000</pubDate>
+      
+      <guid>/blog/categories/grameenphone-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IaaS</title>
+      <link>/blog/categories/iaas/</link>
+      <pubDate>Wed, 02 Nov 2016 23:49:59 +0000</pubDate>
+      
+      <guid>/blog/categories/iaas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Programming</title>
+      <link>/blog/categories/java-programming/</link>
+      <pubDate>Wed, 14 Apr 2010 21:19:45 +0000</pubDate>
+      
+      <guid>/blog/categories/java-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>/blog/categories/linux/</link>
+      <pubDate>Wed, 11 May 2016 00:40:49 +0000</pubDate>
+      
+      <guid>/blog/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac OS X</title>
+      <link>/blog/categories/mac-os-x/</link>
+      <pubDate>Fri, 13 Jan 2012 21:35:21 +0000</pubDate>
+      
+      <guid>/blog/categories/mac-os-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>/blog/categories/monitoring/</link>
+      <pubDate>Fri, 23 Nov 2012 19:48:14 +0000</pubDate>
+      
+      <guid>/blog/categories/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>/blog/categories/mysql/</link>
+      <pubDate>Fri, 13 Jan 2012 22:53:24 +0000</pubDate>
+      
+      <guid>/blog/categories/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>/blog/categories/open-source/</link>
+      <pubDate>Wed, 02 Nov 2016 23:49:59 +0000</pubDate>
+      
+      <guid>/blog/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>/blog/categories/php/</link>
+      <pubDate>Fri, 13 Jan 2012 21:35:21 +0000</pubDate>
+      
+      <guid>/blog/categories/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaaS</title>
+      <link>/blog/categories/paas/</link>
+      <pubDate>Fri, 01 Mar 2013 12:00:09 +0000</pubDate>
+      
+      <guid>/blog/categories/paas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/blog/categories/python/</link>
+      <pubDate>Fri, 13 Dec 2013 14:31:50 +0000</pubDate>
+      
+      <guid>/blog/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality</title>
+      <link>/blog/categories/quality/</link>
+      <pubDate>Fri, 13 Dec 2013 14:31:50 +0000</pubDate>
+      
+      <guid>/blog/categories/quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riak</title>
+      <link>/blog/categories/riak/</link>
+      <pubDate>Wed, 05 Mar 2014 17:26:34 +0000</pubDate>
+      
+      <guid>/blog/categories/riak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminars</title>
+      <link>/blog/categories/seminars/</link>
+      <pubDate>Sun, 26 Feb 2012 07:16:15 +0000</pubDate>
+      
+      <guid>/blog/categories/seminars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoftExpo</title>
+      <link>/blog/categories/softexpo/</link>
+      <pubDate>Sun, 26 Feb 2012 07:16:15 +0000</pubDate>
+      
+      <guid>/blog/categories/softexpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage</title>
+      <link>/blog/categories/storage/</link>
+      <pubDate>Wed, 17 Sep 2014 11:38:03 +0000</pubDate>
+      
+      <guid>/blog/categories/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips &amp;amp; Tricks</title>
+      <link>/blog/categories/tips-amp-tricks/</link>
+      <pubDate>Sun, 17 Jun 2012 17:57:47 +0000</pubDate>
+      
+      <guid>/blog/categories/tips-amp-tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/blog/categories/twitter/</link>
+      <pubDate>Fri, 10 Sep 2010 14:46:37 +0000</pubDate>
+      
+      <guid>/blog/categories/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>/blog/categories/ubuntu/</link>
+      <pubDate>Wed, 25 Apr 2012 22:28:38 +0000</pubDate>
+      
+      <guid>/blog/categories/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>/blog/categories/uncategorized/</link>
+      <pubDate>Sat, 26 Mar 2011 10:25:09 +0000</pubDate>
+      
+      <guid>/blog/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtualenv</title>
+      <link>/blog/categories/virtualenv/</link>
+      <pubDate>Fri, 13 Jan 2012 23:22:41 +0000</pubDate>
+      
+      <guid>/blog/categories/virtualenv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>/blog/categories/web/</link>
+      <pubDate>Fri, 10 Sep 2010 14:46:37 +0000</pubDate>
+      
+      <guid>/blog/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>কথোপকথন</title>
+      <link>/blog/categories/%E0%A6%95%E0%A6%A5%E0%A7%8B%E0%A6%AA%E0%A6%95%E0%A6%A5%E0%A6%A8/</link>
+      <pubDate>Sat, 03 Dec 2011 15:39:41 +0000</pubDate>
+      
+      <guid>/blog/categories/%E0%A6%95%E0%A6%A5%E0%A7%8B%E0%A6%AA%E0%A6%95%E0%A6%A5%E0%A6%A8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

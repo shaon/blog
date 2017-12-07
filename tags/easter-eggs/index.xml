@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Easter eggs on /home/shaon</title>
+    <link>/blog/tags/easter-eggs/</link>
+    <description>Recent content in Easter eggs on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Nov 2011 10:28:49 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/easter-eggs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Easter Eggs or Nerd Jokes</title>
+      <link>/blog/archive/google-easter-eggs-or-nerd-jokes/</link>
+      <pubDate>Fri, 11 Nov 2011 10:28:49 +0000</pubDate>
+      
+      <guid>/blog/archive/google-easter-eggs-or-nerd-jokes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

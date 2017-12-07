@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on /home/shaon</title>
+    <link>/blog/tags/cloud/</link>
+    <description>Recent content in Cloud on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2016 23:49:59 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eucalyptus VPC with MidoNet 5.2</title>
+      <link>/blog/archive/eucalyptus-vpc-with-midonet-5-2/</link>
+      <pubDate>Wed, 02 Nov 2016 23:49:59 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-vpc-with-midonet-5-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eucalyptus-selinux: security as a first-class citizen!</title>
+      <link>/blog/archive/eucalyptus-selinux-security-as-a-first-class-citizen/</link>
+      <pubDate>Wed, 11 May 2016 00:40:49 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-selinux-security-as-a-first-class-citizen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustered Riak CS with Eucalyptus Object Storage Gateway</title>
+      <link>/blog/archive/clustered-riak-cs-with-eucalyptus-object-storage-gateway/</link>
+      <pubDate>Wed, 05 Mar 2014 17:26:34 +0000</pubDate>
+      
+      <guid>/blog/archive/clustered-riak-cs-with-eucalyptus-object-storage-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus manual installation</title>
+      <link>/blog/archive/eucalyptus-manual-installation/</link>
+      <pubDate>Wed, 25 Jan 2012 17:52:13 +0000</pubDate>
+      
+      <guid>/blog/archive/eucalyptus-manual-installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The origin of Cloud Computing</title>
+      <link>/blog/archive/the-origin-of-cloud-computing/</link>
+      <pubDate>Sun, 04 Dec 2011 07:37:05 +0000</pubDate>
+      
+      <guid>/blog/archive/the-origin-of-cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

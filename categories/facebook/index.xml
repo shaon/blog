@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facebook on /home/shaon</title>
+    <link>/blog/categories/facebook/</link>
+    <description>Recent content in Facebook on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Aug 2010 18:26:43 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/categories/facebook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Facebook Application Setup</title>
+      <link>/blog/archive/facebook-application-setup/</link>
+      <pubDate>Fri, 06 Aug 2010 18:26:43 +0000</pubDate>
+      
+      <guid>/blog/archive/facebook-application-setup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

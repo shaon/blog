@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jdbc on /home/shaon</title>
+    <link>/blog/tags/jdbc/</link>
+    <description>Recent content in Jdbc on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Apr 2010 21:19:45 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/jdbc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JDBC - Java Database Connectivity</title>
+      <link>/blog/archive/jdbc-java-database-connectivity/</link>
+      <pubDate>Wed, 14 Apr 2010 21:19:45 +0000</pubDate>
+      
+      <guid>/blog/archive/jdbc-java-database-connectivity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

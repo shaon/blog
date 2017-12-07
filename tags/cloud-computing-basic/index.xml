@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud computing basic on /home/shaon</title>
+    <link>/blog/tags/cloud-computing-basic/</link>
+    <description>Recent content in Cloud computing basic on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2011 07:37:05 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/cloud-computing-basic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The origin of Cloud Computing</title>
+      <link>/blog/archive/the-origin-of-cloud-computing/</link>
+      <pubDate>Sun, 04 Dec 2011 07:37:05 +0000</pubDate>
+      
+      <guid>/blog/archive/the-origin-of-cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

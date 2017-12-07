@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on /home/shaon</title>
+    <link>/blog/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Mar 2011 10:25:09 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TotalFinder - The missing app of Mac OS X</title>
+      <link>/blog/archive/totalfinder-the-missing-app-of-mac-os-x/</link>
+      <pubDate>Sat, 26 Mar 2011 10:25:09 +0000</pubDate>
+      
+      <guid>/blog/archive/totalfinder-the-missing-app-of-mac-os-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install Dropbox from source in Debian Squeeze</title>
+      <link>/blog/archive/install-dropbox-from-source-in-debian-squeeze/</link>
+      <pubDate>Sun, 06 Mar 2011 20:57:27 +0000</pubDate>
+      
+      <guid>/blog/archive/install-dropbox-from-source-in-debian-squeeze/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

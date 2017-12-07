@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac OS X on /home/shaon</title>
+    <link>/blog/categories/mac-os-x/</link>
+    <description>Recent content in Mac OS X on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jan 2012 21:35:21 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/categories/mac-os-x/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up mysql and phpmyadmin on Mac OSX</title>
+      <link>/blog/archive/setting-up-mysql-and-phpmyadmin-on-mac-osx/</link>
+      <pubDate>Fri, 13 Jan 2012 21:35:21 +0000</pubDate>
+      
+      <guid>/blog/archive/setting-up-mysql-and-phpmyadmin-on-mac-osx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folder path in Mac OS X</title>
+      <link>/blog/archive/folder-path-in-mac-os-x/</link>
+      <pubDate>Tue, 14 Dec 2010 16:53:32 +0000</pubDate>
+      
+      <guid>/blog/archive/folder-path-in-mac-os-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting up Virtual Host</title>
+      <link>/blog/archive/setting-up-virtual-host/</link>
+      <pubDate>Sun, 17 Oct 2010 22:31:32 +0000</pubDate>
+      
+      <guid>/blog/archive/setting-up-virtual-host/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VirtualBox full screen problem for ubuntu</title>
+      <link>/blog/archive/virtualbox-full-screen-problem-for-ubuntu/</link>
+      <pubDate>Tue, 03 Aug 2010 01:58:44 +0000</pubDate>
+      
+      <guid>/blog/archive/virtualbox-full-screen-problem-for-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alias in unix</title>
+      <link>/blog/archive/alias-in-unix/</link>
+      <pubDate>Fri, 23 Jul 2010 15:59:24 +0000</pubDate>
+      
+      <guid>/blog/archive/alias-in-unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Read .chm on mac os x 10.5.4</title>
+      <link>/blog/archive/read-chm-on-mac-os-x-10-5-4/</link>
+      <pubDate>Thu, 17 Sep 2009 19:11:06 +0000</pubDate>
+      
+      <guid>/blog/archive/read-chm-on-mac-os-x-10-5-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43; on mac os x 10.5.4</title>
+      <link>/blog/archive/cpp-on-mac/</link>
+      <pubDate>Thu, 20 Aug 2009 21:02:15 +0000</pubDate>
+      
+      <guid>/blog/archive/cpp-on-mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run and Close Application from Terminal in Mac OS X</title>
+      <link>/blog/archive/run-close-application-in-ma/</link>
+      <pubDate>Fri, 14 Aug 2009 17:39:00 +0000</pubDate>
+      
+      <guid>/blog/archive/run-close-application-in-ma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

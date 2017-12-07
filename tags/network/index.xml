@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network on /home/shaon</title>
+    <link>/blog/tags/network/</link>
+    <description>Recent content in Network on /home/shaon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Feb 2012 16:13:51 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>connect: Network is unreachable</title>
+      <link>/blog/archive/connect-network-is-unreachable/</link>
+      <pubDate>Tue, 07 Feb 2012 16:13:51 +0000</pubDate>
+      
+      <guid>/blog/archive/connect-network-is-unreachable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
