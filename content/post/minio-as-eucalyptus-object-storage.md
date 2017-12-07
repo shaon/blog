@@ -1,6 +1,6 @@
 ---
 title: "Minio as Eucalyptus Object Storage"
-date: 2017-08-18T10:32:40-07:00
+date: 2016-11-19T10:32:40-07:00
 author: Shaon
 categories:
   - cloud
